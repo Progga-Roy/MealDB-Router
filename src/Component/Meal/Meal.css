@@ -1,0 +1,28 @@
+.meal{
+    width: 350px;
+    border: 1px solid rgb(126, 199, 126);
+    padding: 8px;
+   background-color: rgb(188, 226, 188);
+    border-radius: 8px;
+    text-align: center;
+    /*  */
+}
+
+.meal img{
+    width: 100%;
+    /* padding: 8px; */
+    border-radius: 8px;
+   
+    
+}
+.meal h1{
+    color:rgb(216, 185, 10);
+}
+button{
+    padding: 10px 12px;
+    background-color: rgb(2, 192, 125);
+    color: rgb(250, 248, 244);
+    border: none;
+    font-size: 17px;
+    border-radius: 8px;
+}
